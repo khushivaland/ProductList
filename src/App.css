@@ -1,0 +1,16 @@
+.list {
+    padding: 5px;
+}
+
+.icons {
+    border-radius: 22px;
+    background-color:rgba(189, 5, 5, 0.92);
+    padding: 10px;
+}
+
+.lists {
+    border-radius: 27px;
+    padding: 10px;
+    background-color: beige;
+    margin-right: 10px;
+}
